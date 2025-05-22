@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mario
+# Hi, I'm Mario👋
 
 I'm a Full-Stack Web Developer with a focus on building scalable and maintainable web applications. I enjoy working across the stack to deliver efficient and user-friendly solutions.
 
