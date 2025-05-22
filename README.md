@@ -3,55 +3,55 @@
 I'm a Full-Stack Web Developer with a focus on building scalable and maintainable web applications. I enjoy working across the stack to deliver efficient and user-friendly solutions.
 
 ---
+## 🛠️ Technical Skills
 
-## 🛠️ Technologies & Tools
-
-**Languages & Frameworks:**
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
+**Languages & Tools:**
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Frontend:** React.js, TypeScript, Tailwind CSS, Bootstrap, Vite, Next.js
 - **Backend:** Node.js, Express.js, Django, Flask
 - **Databases:** MongoDB, PostgreSQL, MySQL
+- **Others:** Git, GitHub, Docker, Chrome DevTools, REST APIs, GraphQL, Axios, Node-cron, Scrapy
 
-**Tools & Platforms:**
-- Git, GitHub, Docker
-- AWS (EC2, S3), Heroku, Netlify
-- RESTful APIs, GraphQL
+**Certifications:**
+- HarvardX CS50’s Introduction to Programming with Python (edX)
 
 ---
 
-## 📂 Projects
+## 💼 Projects
 
-### [DevConnect](https://github.com/mario/devconnect)
-A social networking platform for developers to share projects and collaborate.
-- Real-time chat with Socket.io
-- OAuth authentication
-- Deployed on Heroku with CI/CD pipelines
+### 📌 Embedded Systems Task Manager Shell
+*Technologies:* C, Unix Signals, Process Scheduling, IPC, Concurrency
+- Designed a resource-aware task manager shell emulating embedded OS process control.
+- Integrated low-level signal-based task control to simulate interrupt-driven execution environments.
+- Managed concurrency, task states, and system resources in a custom lightweight scheduler.
 
-### [TaskMaster Pro](https://github.com/mario/taskmaster-pro)
-A task management app to organize daily activities efficiently.
-- Built with MERN stack
-- Drag-and-drop task organization
-- Responsive design for mobile and desktop
+### 📌 React Admin Dashboard with Real-time Data and CRM Features
+*Technologies:* React.js, TypeScript, GraphQL, Ant Design, Refine, Vite
+- Developed a comprehensive admin dashboard featuring full authentication, dynamic charts, event tracking, and a Kanban board with real-time synchronization.
+- Implemented a company management table with complete CRUD operations and search functionality.
 
-### [ShopEase](https://github.com/mario/shopease)
-An e-commerce platform with a seamless shopping experience.
-- Integrated Stripe API for payments
-- Admin dashboard for inventory management
-- Deployed on AWS with scalable architecture
+### 📌 Web Scraping Pipeline with ScrapeOps Integration
+*Technologies:* Python, Scrapy, Pipelines, Proxies, ScrapeOps
+- Built a scalable web scraping pipeline to extract structured data from e-commerce websites.
+- Implemented proxy rotation and user-agent spoofing to avoid detection and maintain scraping reliability.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mario&show_icons=true&theme=default)
+![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marioazer&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mario&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marioazer&layout=compact&theme=default)
 
 ---
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/mario)
-- [Portfolio Website](https://mario.dev)
-- [Email](mailto:mario@example.com)
+- 📍 Gainesville, VA
+- 📧 [marioazeryt@gmail.com](mailto:marioazeryt@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marioazer1/)
+- 💻 [GitHub](https://github.com/marioazer)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=marioazer&color=blue)
 
 ---
