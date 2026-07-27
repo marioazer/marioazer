@@ -3,7 +3,7 @@
 # Hi, I'm Mario Azer 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+%2B+Systems;Building+Cloud-Native+Microservices;CS+Student+at+George+Mason+University;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+%2B+Systems;Building+Cloud-Native+Microservices;CS+Grad+of+George+Mason+University;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+AWS" alt="Typing SVG" />
 </a>
 
 <p>
@@ -16,7 +16,8 @@
 
 ## About Me
 
-- 🎓 B.S. Computer Science @ **George Mason University** (Fall 2024 – Spring 2026)
+- 🎓 B.S. Computer Science, **George Mason University** (Spring 2026)
+- 🎓 A.S. Computer Science, **Northern Virginia Community College (NOVA)** (Spring 2024)
 - 🛠️ Freelance Web Developer since 2024, building and deploying React apps for local business clients
 - 🏗️ Currently building **cloud-native, event-driven systems** using microservices, Kafka, Kubernetes, and Terraform
 - 🖥️ Also into low-level systems: wrote a multiprogramming subsystem for the **OS/161** teaching OS in C
