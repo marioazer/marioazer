@@ -72,7 +72,7 @@ Transformed OS/161 from a single-program environment into a fully functional mul
 - Designed deterministic parent-child sync for `waitpid()`/`_exit()`, with reliable exit codes and orphan cleanup
 - Validated kernel-user boundaries via `copyin`/`copyout`; verified with 20+ self-authored tests covering fork limits and fault injection
 
-### 🌐 [Personal Portfolio Site](https://github.com/marioazer/Personal_Site)
+### 🌐 [Personal Portfolio Site](https://github.com/marioazer/personal-site)
 `React` `Vite`
 
 My personal site/portfolio, built with React + Vite.
