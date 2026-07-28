@@ -52,7 +52,7 @@
 
 ## Featured Projects
 
-### 🏦 [Cloud-Native Banking Microservices](https://github.com/marioazer/my-banking-project)
+### 🏦 [Cloud-Native Banking Microservices](https://github.com/marioazer/banking-app-microservices)
 `Java` `Spring Boot` `PostgreSQL` `Kafka` `Redis` `Docker` `Kubernetes` `Terraform`
 
 Event-driven banking platform of six independently deployable Spring Boot microservices, each owning its own schema.
@@ -62,7 +62,7 @@ Event-driven banking platform of six independently deployable Spring Boot micros
 - Real-time alert engine pairing OpenFeign with Redis-cached lookups to evaluate transactions within a 5-second SLA
 - Provisioned AWS EKS + RDS with Terraform, deployed via Helm/K8s manifests, backed by a GitHub Actions matrix running 89 JUnit 5 tests across 14 classes on every push
 
-### 🖥️ [OS/161 Multiprogramming Kernel](https://github.com/marioazer/OS161-Multiprogramming-Kernel)
+### 🖥️ [OS/161 Multiprogramming Kernel](https://github.com/marioazer/OS-161-Multiprogramming-Kernel)
 `C` `MIPS Assembly`, Paired Project
 
 Transformed OS/161 from a single-program environment into a fully functional multiprogramming operating system.
